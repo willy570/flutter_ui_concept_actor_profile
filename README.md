@@ -29,8 +29,7 @@ flutter run
 
 ## ScreenShot
 
-<img src="assets/screenshot/one.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="assets/screenshot/two.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="assets/screenshot/two.png" height="500em" />&nbsp;&nbsp;&nbsp;
-<img src="assets/screenshot/three.png" height="500em" />
+<img src="assets/screenshot/one.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="assets/screenshot/two.png" height="500em" />&nbsp;&nbsp;&nbsp;<img src="assets/screenshot/three.png" height="500em" />
 
 
 ## Links
