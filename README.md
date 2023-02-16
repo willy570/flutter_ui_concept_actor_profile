@@ -1,4 +1,4 @@
-## Flutter 4/100 Days UI Concept : Actor Profile Delivery Application Design - Day 4
+## Flutter 4/100 Days UI Concept : Actor Profile
 
 ```dart
 class Day4 extends Flutter100DaysOfCode {
